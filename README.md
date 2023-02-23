@@ -8,6 +8,6 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# COLABORAÇÕES
+## COLABORAÇÕES
 
 #### Qualquer commit será bem vindo para a previsão dos próximos jogos e interface gráfica! 
