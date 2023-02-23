@@ -2,5 +2,5 @@
  
 ## OVERVIEW
 
-### Script em Python para gerar o relatório de três listas do jogo Crash na Blaze.com; em um espaço de tempo de 5 minutos com 15 lances cada, sendo assim, 45 últimos resultados do multiplicador do jogo.
-### O script gera cada relatório e salva em arquivos .xlsx, para posteriormente concatena-los em um novo arquivo .xlsx com total de 45 últimos lances; afim de possíveis métricas para análise de dados, machine learning e previsões para próximas jogadas.
+##### Script em Python para gerar o relatório de três listas do jogo Crash na Blaze.com; em um espaço de tempo de 5 minutos com 15 lances cada, sendo assim, 45 últimos resultados do multiplicador do jogo.
+##### O script gera cada relatório e salva em arquivos .xlsx, para posteriormente concatena-los em um novo arquivo .xlsx com total de 45 últimos lances; afim de possíveis métricas para análise de dados, machine learning e previsões para próximas jogadas.
